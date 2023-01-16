@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/valtermedeiros.github.io/static/css/main.888abeb3.css",
-    "main.js": "/valtermedeiros.github.io/static/js/main.0798469d.js",
+    "main.js": "/valtermedeiros.github.io/static/js/main.f4434705.js",
     "static/js/787.21f9a152.chunk.js": "/valtermedeiros.github.io/static/js/787.21f9a152.chunk.js",
     "static/media/vm_logo_light.svg": "/valtermedeiros.github.io/static/media/vm_logo_light.4808c65ccfee14a38e9d16bf017fe735.svg",
     "static/media/vm_logo_dark.svg": "/valtermedeiros.github.io/static/media/vm_logo_dark.d3f67d96a98f2f243db593e4ee45c80f.svg",
@@ -10,11 +10,11 @@
     "static/media/logo.svg": "/valtermedeiros.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/valtermedeiros.github.io/index.html",
     "main.888abeb3.css.map": "/valtermedeiros.github.io/static/css/main.888abeb3.css.map",
-    "main.0798469d.js.map": "/valtermedeiros.github.io/static/js/main.0798469d.js.map",
+    "main.f4434705.js.map": "/valtermedeiros.github.io/static/js/main.f4434705.js.map",
     "787.21f9a152.chunk.js.map": "/valtermedeiros.github.io/static/js/787.21f9a152.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.888abeb3.css",
-    "static/js/main.0798469d.js"
+    "static/js/main.f4434705.js"
   ]
 }
