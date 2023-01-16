@@ -1,0 +1,122 @@
+[   
+    {
+        "id": "adsr-map",
+    
+        "type": "Data Visualization",
+        "acronym": "Geo Portal",
+        "name": "Azores Deep-Sea Research GIS Portal",
+        "client": "Telmo Morato",
+        "info": "A geo portal for geographic data display and analisys that supports large amounts of points, lines and other features. <br><b>Objective:</b>  provide in-depth analisys but also a quick overview of available data and known ocean places",
+    
+        "collaborators": ["Telmo Morato"],
+        "partners": ["Universidade Lusófona do Porto"],
+        "funding": ["OKEANOS-UAç"],
+    
+        "status": "WIP",
+        "start_date": "2021-10-01", 
+        "end_date": "2021-10-10", 
+    
+        "link_external": "https://deepsea.uac.pt/geo",
+        "link_internal": "",
+    
+        "tags_work_done": ["Database Treatment", "Database Management", "Graphical Design", "UI/UX", "Coding", "GIS", "3D", "Data Analisys and Visualization"],
+        "tags_type": ["Geographic Information System (GIS)", "Database", "Web"],
+        "tags_technologies": ["ArcGIS", "qGIS", "Database", "HTML5", "PHP", "JS", "CSS", "Adobe Suite"]
+    },
+    {
+        "id": "adsr-portal",
+    
+        "type": "Web-platform",
+        "acronym": "ADSR Web Portal",
+        "name": "Azores Deep-Sea Research Web Portal",
+        "client": "Azores Deep-sea Research Team",
+        "info": "A CMS web-platform developed from zero, able to store, show and manage large amounts of data, to provide all sorts of information for general public (communication) and internal (data visualization & management)",
+    
+        "collaborators": ["Telmo Morato"],
+        "partners": ["Universidade dos Açores", "Governo Regional dos Açores", "IMAR - Instituto do Mar", "OKEANOS-UAç"],
+        "funding": ["OKEANOS-UAç"],
+    
+        "status": "WIP",
+        "start_date": "2021-10-01", 
+        "end_date": "2021-10-10", 
+    
+        "link_external": "https://deepsea.uac.pt",
+        "link_internal": "",
+    
+        "tags_work_done": ["Database Management", "Graphical Design", "Coding", "SIG Tools", "3D", "Data Analisys and Visualization"],
+        "tags_type": ["CMS", "Database", "Web"],
+        "tags_technologies": ["Laravel", "PHP", "JS", "CSS", "Adobe Suite"]
+    },
+    {
+        "id": "seashore",
+    
+        "type": "Design",
+        "acronym": "Branding for SA",
+        "name": "The branding of Seashore Azores",
+        "client": "Pedro Feijó",
+        "info": "Create visual identity of Seashore Azores",
+    
+        "collaborators": [""],
+        "partners": ["Honedi"],
+        "funding": ["Honedi"],
+    
+        "status": "WIP",
+        "start_date": "2021-10-01", 
+        "end_date": "2021-10-10", 
+    
+        "link_external": "https://deepsea.uac.pt",
+        "link_internal": "",
+    
+        "tags_work_done": ["Database Management", "Graphical Design", "Coding", "SIG Tools", "3D", "Data Analisys and Visualization"],
+        "tags_type": ["CMS", "Database", "Web"],
+        "tags_technologies": ["Laravel", "PHP", "JS", "CSS", "Adobe Suite"]
+    },
+    {
+        "id": "arduino-geo",
+    
+        "type": "Eletronics",
+        "acronym": "Geo-Reference",
+        "name": "Calculate distance beetween boards",
+        "client": "EUROFLEETS",
+        "info": "Use two Arduino boards equiped with GPS modules to calculate distance from each other with very high accuracy.",
+    
+        "collaborators": ["Rui Prieto"],
+        "partners": ["OKEANOS-UAç"],
+        "funding": ["OKEANOS-UAç"],
+    
+        "status": "WIP",
+        "start_date": "2021-10-01", 
+        "end_date": "2021-10-10", 
+    
+        "link_external": "https://deepsea.uac.pt",
+        "link_internal": "",
+    
+        "tags_work_done": ["Communication", "Graphical Design", "Coding", "SIG Tools", "3D", "Data Analisys and Visualization"],
+        "tags_type": ["Arduino", "C++", "TinyGPS++"],
+        "tags_technologies": ["Laravel", "PHP", "JS", "CSS", "Adobe Suite"]
+    },
+    {
+        "id": "adsr-portal",
+    
+        "type": "Eletronics",
+        "acronym": "Geo Rangefinder",
+        "name": "Calculate distance beetween boards",
+        "client": "IMAR",
+        "info": "Use two Arduino boards equiped with GPS modules to calculate distance from each other with very high accuracy.",
+    
+        "collaborators": ["Rui Prieto"],
+        "partners": ["Universidade dos Açores", "Governo Regional dos Açores", "IMAR - Instituto do Mar", "OKEANOS-UAç"],
+        "funding": ["OKEANOS-UAç"],
+    
+        "status": "WIP",
+        "start_date": "2021-10-01", 
+        "end_date": "2021-10-10", 
+    
+        "link_external": "https://deepsea.uac.pt",
+        "link_internal": "",
+    
+        "tags_work_done": ["Database Management", "Graphical Design", "Coding", "SIG Tools", "3D", "Data Analisys and Visualization"],
+        "tags_type": ["Arduino", "C++", "TinyGPS++"],
+        "tags_technologies": ["Laravel", "PHP", "JS", "CSS", "Adobe Suite"]
+    }
+]
