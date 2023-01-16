@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/valtermedeiros.github.io/static/css/main.888abeb3.css",
+    "main.js": "/valtermedeiros.github.io/static/js/main.15c890dd.js",
+    "static/js/787.21f9a152.chunk.js": "/valtermedeiros.github.io/static/js/787.21f9a152.chunk.js",
+    "static/media/vm_logo_light.svg": "/valtermedeiros.github.io/static/media/vm_logo_light.4808c65ccfee14a38e9d16bf017fe735.svg",
+    "static/media/vm_logo_dark.svg": "/valtermedeiros.github.io/static/media/vm_logo_dark.d3f67d96a98f2f243db593e4ee45c80f.svg",
+    "static/media/vm_icon_light.svg": "/valtermedeiros.github.io/static/media/vm_icon_light.a3886c19d26105c386fbb9b13d388a65.svg",
+    "static/media/vm_icon_dark.svg": "/valtermedeiros.github.io/static/media/vm_icon_dark.d75af354eb23928ef2b02093a1164db6.svg",
+    "static/media/logo.svg": "/valtermedeiros.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/valtermedeiros.github.io/index.html",
+    "main.888abeb3.css.map": "/valtermedeiros.github.io/static/css/main.888abeb3.css.map",
+    "main.15c890dd.js.map": "/valtermedeiros.github.io/static/js/main.15c890dd.js.map",
+    "787.21f9a152.chunk.js.map": "/valtermedeiros.github.io/static/js/787.21f9a152.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.888abeb3.css",
+    "static/js/main.15c890dd.js"
+  ]
+}
